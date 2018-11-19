@@ -1,6 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-Unzip the project and run the below script
+ run the below script
 ## Available Scripts
 
 In the project directory, you can run:
